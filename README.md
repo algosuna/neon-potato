@@ -1,5 +1,5 @@
 ### Neon Potato
-Nenon potato is a colorful [oh-my-zsh](https://ohmyz.sh) theme for [z shell](https://www.zsh.org/).
+Neon potato is a colorful [oh-my-zsh](https://ohmyz.sh) theme for [z shell](https://www.zsh.org/).
 
 <p align="center">
   <img src="demo.png" alt="neon potato demo" width="75%">
